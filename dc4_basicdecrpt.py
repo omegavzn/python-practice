@@ -18,7 +18,6 @@ for i in message:
     new_position = (position - key) % 26 # Subtracting key value to indexed value % 26
     encrypt += alphabet[new_position] # Slicing alphabet with new variable
 
-print(encrypt)
-
+print(encrypt) 
 
 

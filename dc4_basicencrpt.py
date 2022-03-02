@@ -2,7 +2,7 @@
 # Create a string to store all letters of the alphabet
 alphabet = 'abcdefghijklmnopqrstuvqxyz'
 
-# Create a key value; used to generate new text
+# Create a key value; used dto generate new text
 key = 5
 
 # Create a message to prompt input & define "encrypt" as empty string
